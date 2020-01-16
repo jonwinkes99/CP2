@@ -1,0 +1,20 @@
+{
+  "name": "cp2",
+  "version": "1.0.0",
+  "description": "Check Point Dos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwinkes99/CP2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonwinkes99/CP2/issues"
+  },
+  "homepage": "https://github.com/jonwinkes99/CP2#readme",
+  "keywords": []
+}
